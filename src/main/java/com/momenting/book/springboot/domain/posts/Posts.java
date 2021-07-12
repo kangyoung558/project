@@ -8,7 +8,7 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.sql.rowset.serial.SerialStruct;
+
 @Getter
 @NoArgsConstructor
 @Entity // 테이블과 링크될 클래스임을 나타냄 테이블이름은 posts
